@@ -1,6 +1,6 @@
 # IBM HR Attrition Analysis Dashboard
 
-![Page 1 Dashboard]()
+![Page 1 Dashboard](https://github.com/SwetaT30/IBM-HR-Analytics---Employee-Attrition-Analysis/blob/main/Page%201%20Dashboard.png)
 
 ![Page 2 Dashboard]()
 
