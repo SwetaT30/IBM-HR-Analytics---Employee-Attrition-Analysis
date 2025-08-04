@@ -1,4 +1,4 @@
-IBM HR Attrition Analysis Dashboard
+# IBM HR Attrition Analysis Dashboard
 
 ![Page 1 Dashboard](https://github.com/user-attachments/assets/d86b8971-fab3-450b-ba0b-dff570661bac)
 
